@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web Security Review"
+  short_description: "Review web code and authorized deployments for security"
+  default_prompt: "Use $web-security-review to review this application for exploitable security vulnerabilities."
+
+policy:
+  allow_implicit_invocation: false

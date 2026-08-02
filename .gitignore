@@ -1,0 +1,15 @@
+auth.json
+.sandbox-secrets/
+sessions/
+attachments/
+cache/
+tmp/
+.tmp/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.env
+.env.*
+*.pem
+*.key
+
